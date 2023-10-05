@@ -2,6 +2,7 @@
     {
         "name": "Personal Website",
         "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
         "description": "My personal website",
         "link": "www.google.com",
         "authors": ["Me"],
@@ -10,6 +11,7 @@
     {
         "name": "GPT clone",
         "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
         "description": "A clone of the GPT website",
         "link": "www.google.com",
         "authors": ["Me", "Myself", "I"],
@@ -18,6 +20,7 @@
     {
         "name": "Todo App",
         "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
         "description": "A todo app",
         "link": "www.google.com",
         "authors": ["Me", "Homie", "Parent"],
@@ -26,6 +29,7 @@
     {
         "name": "Tip calculator",
         "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
         "description": "A tip calculator",
         "link": "www.google.com",
         "authors": ["Me", "Barisa"],
@@ -34,6 +38,7 @@
     {
         "name": "Pomadoro Timer",
         "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
         "description": "A pomadoro timer",
         "link": "www.google.com",
         "authors": ["Me", "Student"],
@@ -42,6 +47,7 @@
     {
         "name": "Book review API",
         "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
         "description": "A book review API",
         "link": "www.google.com",
         "authors": ["Me", "Student"],
@@ -50,6 +56,7 @@
     {
         "name": "Maze generator",
         "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
         "description": "A maze generator",
         "link": "www.google.com",
         "authors": ["Me"],
