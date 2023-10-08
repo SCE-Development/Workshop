@@ -3,7 +3,11 @@ During this series we will learn HTML, CSS, and JS.
 
 On day one we will go over elements of html, inline css styling, and setting up your website.
 
-On day two we will go over css files, css classes, javascript, and javascript DOM manipulation.
+On day two we will go over css files, css classes, transitions and annimations.
+
+On day three we will go over js, dom manipulation, API usage, and events.
+
+In each folder titled "Week 1", "Week 2", "Week 3" you can find the completed demo code for that week. Everything in the demo will only use content from that week. For example, the code in "Week 2" will only use HTML and CSS that we've gone over. So if you're trying to follow along with the week 3 slides, you can copy and paste the code in week 2 and use it as a starter.
 
 By the end of this workshop series you should have a website that looks like [this](Luceium.github.io).
 
@@ -71,7 +75,9 @@ TO link to an external page put the url in the value of the href. For example `<
 - Use inspect element tools to determine the sizing of elements
 - A good layout is Code on one screen with a vertical monitor to the left split between the website on top and the console on the bottom
 
-# Day 2
+# Day 2 & Day 3
+Please check out our slides for the next two workshops
+[https://docs.google.com/presentation/d/1rODzPHlP0fmajGVogakojBsba3CxVjrERRPbnFHCbkk/edit?usp=sharing](https://docs.google.com/presentation/d/1rODzPHlP0fmajGVogakojBsba3CxVjrERRPbnFHCbkk/edit?usp=sharing)
 
 # Post Workshop Series
 You should now have the fundamental skills to build a simple website.
