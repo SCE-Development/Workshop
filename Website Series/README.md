@@ -9,7 +9,7 @@ On day three we will go over js, dom manipulation, API usage, and events.
 
 In each folder titled "Week 1", "Week 2", "Week 3" you can find the completed demo code for that week. Everything in the demo will only use content from that week. For example, the code in "Week 2" will only use HTML and CSS that we've gone over. So if you're trying to follow along with the week 3 slides, you can copy and paste the code in week 2 and use it as a starter.
 
-By the end of this workshop series you should have a website that looks like [this](Luceium.github.io).
+By the end of this workshop series you should have a website that looks like [this](https://Luceium.github.io).
 
 # Day 1
 ### Install
